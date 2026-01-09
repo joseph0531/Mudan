@@ -7,7 +7,7 @@ def main():
 
 
     n = 0
-    while (n < 123):
+    while (n < 100000):
 
         mqtt.send_status("start_main")
         n += 1
