@@ -1,0 +1,9 @@
+
+api_key: 
+mqtt:
+  broker: 
+  port: 
+  topic: 
+  status_topic: 
+  output_topic: 
+  control_topic: 
